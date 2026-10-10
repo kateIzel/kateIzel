@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/github/followers/kateIzel?label=Followers&style=flat&color=00E5FF" alt="followers" />
 </p>
 
-<!-- Contador: el parámetro "name" debe ser único para esta cuenta. Evita temas con "-h", "rule34" o "gelbooru" (no son aptos para reclutadores). -->
-<img src="https://count.getloli.com/@kateIzel?name=kateIzel&theme=capoo-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor counter" />
+<!-- Contador de visitas estable -->
+<img src="https://count.getloli.com/@:kateIzel?theme=capoo-1" alt="visitor counter" />
 
 </div>
 
